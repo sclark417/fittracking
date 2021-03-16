@@ -1,4 +1,5 @@
 # fittracking
+
 For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the Develop folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
 
 User Story
@@ -53,4 +54,6 @@ You are required to submit the following:
 
 The URL to the deployed application
 
-The URL to the GitHub repository
+Github:https://github.com/sclark417/fittracking.git
+
+https://drive.google.com/file/d/1yl6JBIj3EjT5Qu600HBkIoV3yVTKR7aX/view
